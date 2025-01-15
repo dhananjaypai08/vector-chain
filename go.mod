@@ -20,7 +20,7 @@ replace (
 require (
 	cosmossdk.io/api v0.7.6
 	cosmossdk.io/client/v2 v2.0.0-beta.6
-	cosmossdk.io/core v0.12.0
+	cosmossdk.io/core v1.0.0
 	cosmossdk.io/log v1.5.0
 	cosmossdk.io/math v1.5.0
 	cosmossdk.io/store v1.1.1
